@@ -1,0 +1,5 @@
+[
+{"pod":"POD1","log":["log1.1","log1.2","log1.3"]},
+{"pod":"POD2","log":["log2.1","log2.2","log2.3"]},
+{"  pod":"POD3","log":["log3.1","log3.2","log3.3"]} 
+ ]
